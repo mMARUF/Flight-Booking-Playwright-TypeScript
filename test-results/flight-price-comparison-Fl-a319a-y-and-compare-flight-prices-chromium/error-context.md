@@ -1,0 +1,597 @@
+# Page snapshot
+
+```yaml
+- link "logo":
+  - /url: /flight
+  - img "logo"
+- link "Sign In":
+  - /url: /signin
+  - button "Sign In":
+    - paragraph: Sign In
+- link:
+  - /url: /signup
+- img "image"
+- text: One Way
+- img "image"
+- text: Round Trip
+- img "image"
+- text: Multi City
+- article:
+  - paragraph: Showing 21 Flights & 2 Airlines
+  - button "image" [disabled]:
+    - img "image"
+  - button "image" [disabled]:
+    - img "image"
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 09:10
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 10:00
+  - paragraph: DAC
+  - img "image"
+  - paragraph: Best Deal
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 8,482
+  - paragraph: BDT 9,398
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Biman Bangladesh Airlines
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 09:10
+  - paragraph: CGP
+  - paragraph: 55m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 10:05
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FTBGDOM
+  - paragraph: BDT 8,482
+  - paragraph: BDT 9,398
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 6 seat(s) left
+  - img "default-image"
+  - paragraph: Biman Bangladesh Airlines
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 10:10
+  - paragraph: CGP
+  - paragraph: 55m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 11:05
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FTBGDOM
+  - paragraph: BDT 8,482
+  - paragraph: BDT 9,398
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 11:55
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 12:45
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 8,482
+  - paragraph: BDT 9,398
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 17:55
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 18:45
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 8,482
+  - paragraph: BDT 9,398
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Biman Bangladesh Airlines
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 20:25
+  - paragraph: CGP
+  - paragraph: 55m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 21:20
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FTBGDOM
+  - paragraph: BDT 8,482
+  - paragraph: BDT 9,398
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 21:30
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 22:20
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 8,482
+  - paragraph: BDT 9,398
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Biman Bangladesh Airlines
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 08:00
+  - paragraph: CGP
+  - paragraph: 55m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 08:55
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FTBGDOM
+  - paragraph: BDT 9,004
+  - paragraph: BDT 9,998
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 09:10
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 10:00
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 9,874
+  - paragraph: BDT 10,998
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 11:55
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 12:45
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 9,874
+  - paragraph: BDT 10,998
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Biman Bangladesh Airlines
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 15:20
+  - paragraph: CGP
+  - paragraph: 55m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 16:15
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FTBGDOM
+  - paragraph: BDT 9,874
+  - paragraph: BDT 10,998
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 17:55
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 18:45
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 9,874
+  - paragraph: BDT 10,998
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 21:30
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 22:20
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 9,874
+  - paragraph: BDT 10,998
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 09:10
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 10:00
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 12,834
+  - paragraph: BDT 14,400
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 11:55
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 12:45
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 12,834
+  - paragraph: BDT 14,400
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 17:55
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 18:45
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 12,834
+  - paragraph: BDT 14,400
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 21:30
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 22:20
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 12,834
+  - paragraph: BDT 14,400
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 09:10
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 10:00
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 18,054
+  - paragraph: BDT 20,400
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 11:55
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 12:45
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 18,054
+  - paragraph: BDT 20,400
+  - button "Select":
+    - paragraph: Select
+  - img "image"
+  - paragraph: Partially Refundable
+  - img "image"
+  - paragraph: 9 seat(s) left
+  - img "default-image"
+  - paragraph: Air Astra
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 17:55
+  - paragraph: CGP
+  - paragraph: 50m
+  - img "image"
+  - paragraph: Non-stop
+  - paragraph: 23 Sep, Tuesday
+  - paragraph: 18:45
+  - paragraph: DAC
+  - button "View Details image":
+    - text: View Details
+    - img "image"
+  - img "image"
+  - paragraph: FT2ADOM
+  - paragraph: BDT 18,054
+  - paragraph: BDT 20,400
+  - button "Select":
+    - paragraph: Select
+- img "Hero background image"
+- heading "Start Exploring the World with Us!" [level=2]
+- button "Get Started →":
+  - text: Get Started
+  - paragraph: →
+- img "logo"
+- paragraph: Let us be your trusted travel companion every step of the way.
+- link "default-image":
+  - /url: https://www.facebook.com/firsttripbd
+  - img "default-image"
+- link "default-image":
+  - /url: https://x.com/FirstTripBD
+  - img "default-image"
+- link "default-image":
+  - /url: https://www.instagram.com/firsttrip_ltd/
+  - img "default-image"
+- link "default-image":
+  - /url: https://www.linkedin.com/company/first-trip-limited
+  - img "default-image"
+- link "default-image":
+  - /url: https://www.youtube.com/@Firsttripltd
+  - img "default-image"
+- paragraph: Explore
+- link "Flight":
+  - /url: /flight
+  - paragraph: Flight
+- link "Hotel":
+  - /url: /hotel
+  - paragraph: Hotel
+- link "Holidays":
+  - /url: /holiday
+  - paragraph: Holidays
+- link "Visa":
+  - /url: /visa
+  - paragraph: Visa
+- link "Promotions":
+  - /url: /firsttrip-offers
+  - paragraph: Promotions
+- paragraph: Useful Links
+- link "About Us":
+  - /url: /about-us
+  - paragraph: About Us
+- link "Contact Us":
+  - /url: /about-us?id=contact_us
+  - paragraph: Contact Us
+- link "Visa Guide & Application":
+  - /url: /visa
+  - paragraph: Visa Guide & Application
+- link "Terms & Conditions":
+  - /url: /terms-conditions
+  - paragraph: Terms & Conditions
+- link "Privacy Policy":
+  - /url: /privacy-policy
+  - paragraph: Privacy Policy
+- link "Refund & Cancellation":
+  - /url: /refund-policy
+  - paragraph: Refund & Cancellation
+- link "Rescheduling Policy":
+  - /url: /rescheduling-policy
+  - paragraph: Rescheduling Policy
+- paragraph: Contact Us
+- link "3rd floor, Sharif Plaza, 39 Kemal Ataturk Avenue,Banani, Dhaka-1213.":
+  - /url: /
+  - paragraph: 3rd floor, Sharif Plaza, 39 Kemal Ataturk Avenue,Banani, Dhaka-1213.
+- link "image 09613-131415":
+  - /url: /
+  - img "image"
+  - paragraph: 09613-131415
+- link "image ask@firsttrip.com":
+  - /url: /
+  - img "image"
+  - paragraph: ask@firsttrip.com
+- paragraph: Authorized by
+- img "Footer Image - Authorized by"
+- paragraph: Verified by
+- img "Footer Image - Verified by"
+- paragraph
+- img "Footer Image - Other"
+- paragraph
+- img "Footer Image - Other"
+- paragraph
+- img "Footer Image - Other"
+- paragraph: Payment Method
+- img "Payment Method"
+- paragraph: © 2025 Firsttrip.All Rights Reserved
+- link "EMI Policy":
+  - /url: /emi-policy
+- link "FAQ’s":
+  - /url: /faq
+- alert
+```
